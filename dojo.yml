@@ -1,0 +1,32 @@
+id: COMP6700
+
+name: COMP6700 Challenges
+
+description: |
+  This is a repo for comp6700 challenges.
+
+type: example
+
+award:
+  emoji: 😀
+
+modules:
+
+  - id: module1
+    name: Module1
+    description: The first module in this example dojo.
+
+    challenges:
+
+      - id: challenge1
+        name: Challenge1
+        description: Stack overflow challenge 1.
+
+      - id: challenge2
+        name: Challenge2
+        description: Stack overflow challenge 2.
+        
+      - id: challenge3
+        name: Challenge3
+        description: Stack overflow challenge 3.
+
