@@ -5,7 +5,7 @@ name: COMP6700 Challenges
 description: |
   This is a repo for comp6700 challenges.
 
-type: example
+type: course
 
 award:
   emoji: 😀
